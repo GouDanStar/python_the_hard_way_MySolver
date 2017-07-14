@@ -102,3 +102,4 @@ ENV/
 
 #vim bakup file
 *~
+*.swp
